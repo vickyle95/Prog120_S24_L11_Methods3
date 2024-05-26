@@ -22,7 +22,9 @@ namespace Prog120_S24_L11_Methods3
         // object: | null | null | null | null |
         static void Main(string[] args)
         {
-            
+            // Name: Vicky Le
+            // Assignment: Lecture 11 - Methods 3
+            // Date: 5/21/24
 
             // Call my preload method to populate my arrays
             Preload();
